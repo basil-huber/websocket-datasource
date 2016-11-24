@@ -1,0 +1,27 @@
+{
+  "name": "websocket-datasource",
+  "version": "1.0.0",
+  "description": "Used by DRIC to access datasources",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "dric",
+    "datasource"
+  ],
+  "author": "Arthur Gay",
+  "license": "MIT",
+  "dependencies": {
+    "websocket.js": "^0.1.6"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Arth-ur/websocket-datasource.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Arth-ur/websocket-datasource/issues"
+  },
+  "homepage": "https://github.com/Arth-ur/websocket-datasource#readme"
+}
